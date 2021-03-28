@@ -16,6 +16,6 @@
 - Struggling on <a href="https://leetcode.com/harshsri28/">LeetCode</a> 😍
 - Practising on <a href="https://codeforces.com/profile/harshsri2807/">Codeforces</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/harsh-srivastava-a03747166/">LinkedIn</a> 😇
-- </br>
+</br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api?username=harshsri28&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
