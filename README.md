@@ -5,7 +5,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer Science from GL BAJAJ .\
+🎓 &nbsp;I'm currently pursuing Computer Science from GL BAJAJ .\
 💡 &nbsp;Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.\
 🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm.\
 ✉️ &nbsp;You can shoot me an email at harshsri875@gmail.com! I'll try to respond as soon as I can.
