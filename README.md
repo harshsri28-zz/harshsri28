@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently pursuing Computer Science from GL BAJAJ .\
 💡 &nbsp;Some technologies I enjoy working with include MERN.\
 🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and react native.\
-✉️ &nbsp;You can shoot me an email at harshsri875@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at harshsri93328@gmail.com! I'll try to respond as soon as I can.
 
 
 
