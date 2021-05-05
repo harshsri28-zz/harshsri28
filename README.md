@@ -13,8 +13,8 @@
 
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/harsh-srivastava-a03747166/"><img align="left" width="150" height="146" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif?raw=true"></a>
-- Struggling on <a href="https://leetcode.com/harshsri28/">LeetCode</a> 😍
-- Practising on <a href="https://codeforces.com/profile/harshsri2807/">Codeforces</a> 🙃
+- Struggling on <a href="https://codeforces.com/profile/harshsri2807/">Codeforces</a> 😍
+- Practising on <a href="https://leetcode.com/harshsri28/">Leetcode</a> 🙃
 - Sharing updates on <a href="https://www.linkedin.com/in/harsh-srivastava-a03747166/">LinkedIn</a> 😇
 </br>
 </br>
