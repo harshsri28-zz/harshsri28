@@ -6,8 +6,9 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 🎓 &nbsp;I'm currently pursuing Computer Science from GL BAJAJ .\
-💡 &nbsp;Some technologies I enjoy working with MERN.\
-🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and react native.\
+💡 &nbsp;Some technologies I enjoy working with MERN stack.\
+🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and Machine Learning.\
+🌱 &nbsp;I used to develop App using React native.\
 ✉️ &nbsp;You can shoot me an email at harshsri875@gmail.com! I'll try to respond as soon as I can.
 
 
