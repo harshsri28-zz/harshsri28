@@ -11,7 +11,14 @@
 🌱 &nbsp;I used to develop App using React native.\
 ✉️ &nbsp;You can shoot me an email at harshsri875@gmail.com! I'll try to respond as soon as I can.
 
+<h3>🛠 Tech Stack</h3>
 
+- 💻 &nbsp; C++ | C | Java | CSS | JavaScript 
+- 🌐 &nbsp; React | React Native
+- 🛢 &nbsp; MySQL | Firebase | Mongodb
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+
+<br>
 
 ## Reach Out me at 🌎 <a href="https://www.linkedin.com/in/harsh-srivastava-a03747166/"><img align="left" width="150" height="146" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif?raw=true"></a>
 - Sharing updates on <a href="https://www.linkedin.com/in/harsh-srivastava-a03747166/">LinkedIn</a> 😇
