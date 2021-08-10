@@ -14,9 +14,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | C | Java | CSS | JavaScript 
-- 🌐 &nbsp; React | React Native
+- 🌐 &nbsp; React | React Native | Redux
 - 🛢 &nbsp; MySQL | Firebase | Mongodb
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
 
 <br>
 
