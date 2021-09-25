@@ -4,7 +4,6 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-![](https://komarev.com/ghpvc/?username=harshsri28)
 
 🎓 &nbsp;I'm currently pursuing Computer Science from GL BAJAJ .\
 💡 &nbsp;Some technologies I enjoy working with MERN stack.\
