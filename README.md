@@ -9,7 +9,7 @@
 💡 &nbsp;Some technologies I enjoy working with MERN stack.\
 🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and Machine Learning.\
 🌱 &nbsp;I used to develop App using React native.\
-✉️ &nbsp;You can shoot me an email at harshsri875@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at harshsri2023@gmail.com! I'll try to respond as soon as I can.
 
 <h3>🛠 Tech Stack</h3>
 
