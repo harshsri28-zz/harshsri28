@@ -16,7 +16,7 @@
 - 💻 &nbsp; C++ | C | Java | CSS | JavaScript 
 - 🌐 &nbsp; React | React Native | Redux
 - 🛢 &nbsp; MySQL | Firebase | Mongodb
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🔧 &nbsp; Expo Cli | Visual Studio code | Git
 
 <br>
 
